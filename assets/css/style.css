@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+#fam {
+    width:25%;
+    height:25%
+}
