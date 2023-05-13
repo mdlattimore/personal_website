@@ -3,4 +3,4 @@
 ![The Lattimore Double Firsts](assets/images/double_firsts.jpeg)
 
 
-<div><img src="/personal_website/assets/images/double_firsts.jpeg" alt="US" style="width:25%;height:25%";></div>
+<div><img src="/personal_website/assets/images/double_firsts.jpeg" alt="US" style="width:150px;height:100px";></div>
