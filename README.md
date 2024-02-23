@@ -1,4 +1,3 @@
-ChatGPT Transcript: Caesar Cipher
 
 <b>You</b>  
 The following message is encoded using an old cipher. I won't tell you what cipher it is, but it is an easy one to crack. Can you tell me what the clear text says?
